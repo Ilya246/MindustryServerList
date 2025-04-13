@@ -8,26 +8,6 @@
     "address": ["mindustry.frost-heaven.ru:6587", "mindustry.frost-heaven.ru:6588", "mindustry.frost-heaven.ru:6589"]
   },
   {
-    "name": "snowland",
-    "address": ["46.23.90.167:52001", "46.23.90.167:52002"]
-  },
-  {
-    "name": "routerchain",
-    "address": ["v8.baseduser.eu.org:6567", "v8.baseduser.eu.org:6568"]
-  },
-  {
-    "name": "TinyLake",
-    "address": ["cn.mindustry.top", "cn.mindustry.top:40542"]
-  },
-  {
-    "name": "Mindurka",
-    "address": ["147.45.230.117:3014"]
-  },
-  {
-    "name": "MeowIsland",
-    "address": ["meowisland.ru:6000", "meowisland.ru:6001"]
-  },
-  {
     "name": "io",
     "address": [
       "148.251.184.58",
@@ -36,5 +16,25 @@
       "148.251.184.58:3000",
       "148.251.184.58:4000"
     ]
-  }
+  },
+  {
+    "name": "routerchain",
+    "address": ["v8.baseduser.eu.org:6567", "v8.baseduser.eu.org:6568"]
+  },
+  {
+    "name": "snowland",
+    "address": ["46.23.90.167:52001", "46.23.90.167:52002"]
+  },
+  {
+    "name": "MeowIsland",
+    "address": ["meowisland.ru:6000", "meowisland.ru:6001"]
+  },
+  {
+    "name": "Mindurka",
+    "address": ["147.45.230.117:3014"]
+  },
+  {
+    "name": "TinyLake",
+    "address": ["cn.mindustry.top", "cn.mindustry.top:40542"]
+  },
 ]
